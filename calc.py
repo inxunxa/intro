@@ -56,3 +56,11 @@ while( opc != 'x'):
 
 
 print('Good bye!')
+
+
+"""
+After changes:
+- Type a message
+- Check mark (to commit = local copy)
+- push (to send changes to github server)
+"""

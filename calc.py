@@ -8,6 +8,7 @@ def print_menu():
     print("[1] Add")
     print("[2] Substract")
     print("[3] Multiply")
+
     print("[4] Division")
 
     print("[5] My age")
